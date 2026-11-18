@@ -20,10 +20,10 @@ _Atividade individual de Banco de Dados · banco `loja_tech`_
 
 | | |
 |---|---|
-| **Aluno(a)** | _seu nome aqui_ |
-| **Disciplina / Turma** | _preencha_ |
-| **Professor(a)** | _preencha_ |
-| **Data** | Novembro/2026 |
+| **Aluno(a)** | Matheus |
+| **Turma** | SEDUC-DEST 2 |
+| **Professor(a)** | Átila |
+| **Data** | 11/Novembro/2026 |
 
 ---
 
