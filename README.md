@@ -23,7 +23,7 @@ _Atividade individual de Banco de Dados · banco `loja_tech`_
 | **Aluno(a)** | Matheus |
 | **Turma** | SEDUC-DEST 2 |
 | **Professor(a)** | Átila |
-| **Data** | 11/Novembro/2026 |
+| **Data** | 18/Novembro/2026 |
 
 ---
 
